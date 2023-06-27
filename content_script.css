@@ -15,11 +15,6 @@ body {
 color: white;
 }
 
-article h1 {
-   font-size: 14px;
-
-}
-
 html {
 	background-image: url(docs/assets/arcade_floor.png);
 }
