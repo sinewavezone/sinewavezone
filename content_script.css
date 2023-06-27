@@ -15,12 +15,12 @@ body {
 color: white;
 }
 
-h1 {
-font-size: 30px;
+article h1 {
+   font-size: 12px;
 }
 
-p {
-font-size: 14px;
+article p {
+   font-size: 6px;
 }
 
 html {
